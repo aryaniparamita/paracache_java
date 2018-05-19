@@ -1,0 +1,6 @@
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:main,org.eclipse.launchbar.core.descriptorType.default\:Camera
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Camera/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Camera/activeLaunchTarget=org.eclipse.remote.LocalServices\:Local
+org.eclipse.launchbar.core.descriptorType.default\:main/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:main/activeLaunchTarget=org.eclipse.remote.LocalServices\:Local
